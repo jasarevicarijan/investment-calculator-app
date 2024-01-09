@@ -1,6 +1,6 @@
-# Investment Calculator App With JS & Reaact
+# Investment Calculator App With JS & React
 
-This is a repository for a Investment Calcilator App using JS and React.
+This is a repository for a Investment Calculator App using JS and React.
 
 Features:
 
